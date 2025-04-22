@@ -1,4 +1,7 @@
-# EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT
+# EXPERIMENT 06 INTERRUPT GENERATION USING PUSHBUTTON AND SIMULATING THE OUTPUT
+### NAME: SHUBHAVI M
+### ROLL NO: 212223040199
+### Date of experiment: 17.04.25
 
 ### Aim:
 To Interface a push button and generate an interrupt , simulate it using an led and simuate it on  proteus 
